@@ -1,0 +1,2 @@
+Link com informações básicas sobre o Git > https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git
+Link com informações básicas sobre o Github > https://rockcontent.com/br/blog/o-que-e-github/
